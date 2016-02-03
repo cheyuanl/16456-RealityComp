@@ -12,3 +12,11 @@ Note:
   2. Need to study on how to deal with collision. 
    
   3. Implement the mass spring simulation next week
+
+Feb 3, 2016
+
+1. Downsampled point clouds to 80 MB
+
+2. Include GUI feature
+
+3. Mass spring not implemented yet...
