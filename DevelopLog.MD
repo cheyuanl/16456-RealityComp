@@ -20,3 +20,8 @@ Feb 3, 2016
 2. Include GUI feature
 
 3. Mass spring not implemented yet...
+
+Feb  14, 2016
+
+1. Add console and parameter GUI
+
