@@ -26,9 +26,11 @@ Feb 21, 2016
 
 
 Feb 28. 2016
+
 1. Add sound effect
 2. Wire up position front up attributes into XRSoundManager for 3D sound rendering
 
 Mar. 3 2016
+
 1. Integrate Oculus SDK, creating new branch
 
