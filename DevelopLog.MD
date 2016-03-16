@@ -25,12 +25,17 @@ Feb 21, 2016
 2. Integrate Tinyobj loader
 
 
-Feb 28. 2016
+Feb 28, 2016
 
 1. Add sound effect
 2. Wire up position front up attributes into XRSoundManager for 3D sound rendering
 
-Mar. 3 2016
+Mar 3, 2016
 
-1. Integrate Oculus SDK, creating new branch
+1. Integrate Oculus SDK
+
+Mar 6, 2016
+
+1. Wired up the Oculus SDK, new branch
+2. Regenerate 1/10 resolution of pointcloud for demo
 
