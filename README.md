@@ -1,5 +1,4 @@
 # CMU 16-456 - Reality Computing
---
 
 **XRealityRender**: [source code](https://github.com/YuMao1993/XRealityRender)
 
@@ -15,7 +14,7 @@ In summary, we are going to implement a real-time(hopefully) visualization tool 
 
 
 ##*Check Point I 
-###REAL2016 Conference with Kitchen
+###REAL2016 Conference 
 + Rendering large (4 GB) point cloud data smoothly
 + Integrating Oculus SDK / FMOD
 + Controller interface could be improved
