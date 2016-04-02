@@ -41,14 +41,14 @@ Mar 6, 2016
 
 Mar 8-9, 2016
 
-Real2016 Feedback:
+  some feedback from Real2016:
 
 1. The controller cannot move in vertical direction.
 2. THe object cannot manipulate.
 3. Frame rate is good!
 4. Add caption/instruction in the scene would be better.
 
-**Spring Break**
+**Spring Break - moving forward to next stage "City Flood!"**
 
 Apr 1, 2016
 
