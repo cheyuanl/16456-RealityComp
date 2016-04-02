@@ -39,3 +39,17 @@ Mar 6, 2016
 1. Wired up the Oculus SDK, new branch
 2. Regenerate 1/10 resolution of pointcloud for demo
 
+Mar 8-9, 2016
+
+Real2016 Feedback:
+
+1. The controller cannot move in vertical direction.
+2. THe object cannot manipulate.
+3. Frame rate is good!
+4. Add caption/instruction in the scene would be better.
+
+**Spring Break**
+
+Apr 1, 2016
+
+1. Add SpatialMap to acclerate neiborhood particles finding
