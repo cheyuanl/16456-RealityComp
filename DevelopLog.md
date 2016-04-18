@@ -53,3 +53,22 @@ Mar 8-9, 2016
 Apr 1, 2016
 
 1. Add SpatialMap to acclerate neiborhood particles finding
+
+Apr 8, 2016
+
+1. Working on marching cube.
+
+Apr 13. 2016
+
+class note:
+
+As suggested in the class, the fluid simulation could be used as design tool to predict the fluid dynamic in the sink. 
+We decided to change the goal from City Flood to the sinker design.
+
+So our next job is to implment the **collision handler** and **mesh modifier** to enable adjust the vercies during the runtime.
+
+Apr 17, 2016
+
+1. Fix marching cube and optimize algorithm to prevent duplicate computation on the same grid.
+2. Implement Spatial Grid.
+
