@@ -72,3 +72,7 @@ Apr 17, 2016
 1. Fix marching cube and optimize algorithm to prevent duplicate computation on the same grid.
 2. Implement Spatial Grid.
 
+May 1, 2016
+1. Implemented height field, normal computed by obj file.
+2. Implemented collision handler.
+
