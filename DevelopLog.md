@@ -73,6 +73,7 @@ Apr 17, 2016
 2. Implement Spatial Grid.
 
 May 1, 2016
+
 1. Implemented height field, normal computed by obj file.
 2. Implemented collision handler.
 
